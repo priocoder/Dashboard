@@ -1,0 +1,15 @@
+/* Dark Theme */
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-theme .card,
+.dark-theme .chart-section {
+  background-color: #444;
+  color: #fff;
+}
+
+.dark-theme .sidebar {
+  background-color: #222;
+}
